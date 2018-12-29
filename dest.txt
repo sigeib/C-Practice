@@ -1,0 +1,60 @@
+Aug 19 03:37:01 kernel: imklog 4.4.2, log source = /proc/kmsg started.
+Aug 19 03:37:01 rsyslogd: [origin software="rsyslogd" swVersion="4.4.2" x-pid="1069" x-info="http://www.rsyslog.com"] (re)start
+Aug 19 04:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 05:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 06:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 07:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 08:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 09:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 10:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 11:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 12:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 12:23:01 dhclient[1317]: DHCPREQUEST on eth0 to 82.13.199.84 port 67
+Aug 19 12:23:01 dhclient[1317]: DHCPACK from 82.13.55.254
+Aug 19 12:23:01 dhclient[1317]: bound to 82.13.55.116 -- renewal in 78819 seconds.
+Aug 19 13:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 14:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 15:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 16:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 17:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 18:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 19:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 20:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 21:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 22:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 19 23:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 00:00:02 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 01:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 02:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 03:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 04:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 05:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 06:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 07:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 08:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 09:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 10:00:01 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 10:15:30 gnome-keyring-daemon[23215]: Couldn't unlock login keyring with provided password
+Aug 20 10:15:30 gnome-keyring-daemon[23215]: Failed to unlock login on startup
+Aug 20 10:15:30 NetworkManager[1138]: <error> [1345428930.959902] [nm-manager.c:1331] user_proxy_init(): could not init user settings proxy: (3) Could not get owner of name 'org.freedesktop.NetworkManagerUserSettings': no such name
+Aug 20 10:15:31 NetworkManager[1138]: <error> [1345428931.70095] [nm-manager.c:1331] user_proxy_init(): could not init user settings proxy: (3) Could not get owner of name 'org.freedesktop.NetworkManagerUserSettings': no such name
+Aug 20 10:15:32 kernel: fuse init (API version 7.13)
+Aug 20 10:15:32 seahorse-daemon[23325]: init gpgme version 1.1.8
+Aug 20 10:15:34 pulseaudio[23392]: pid.c: Daemon already running.
+Aug 20 10:15:35 setroubleshoot: SELinux not enabled, setroubleshootd exiting...
+Aug 20 10:15:35 automount[1478]: add_host_addrs: hostname lookup failed: Temporary failure in name resolution
+Aug 20 10:15:50 pulseaudio[1935]: pid.c: Failed to open PID file '/var/lib/gdm/.pulse/0860764eead2039eac88bc214c7d194f-runtime/pid': No such file or directory
+Aug 20 10:15:50 pulseaudio[1935]: pid.c: Failed to open PID file '/var/lib/gdm/.pulse/0860764eead2039eac88bc214c7d194f-runtime/pid': No such file or directory
+Aug 20 10:16:40 dhclient[1317]: DHCPREQUEST on eth0 to 82.13.199.84 port 67
+Aug 20 10:16:40 dhclient[1317]: DHCPACK from 82.13.55.254
+Aug 20 10:16:40 dhclient[1317]: bound to 82.13.55.116 -- renewal in 80823 seconds.
+Aug 20 10:17:14 console-kit-daemon[1333]: WARNING: Couldn't read /proc/23361/environ: Failed to open file '/proc/23361/environ': No such file or directory
+Aug 20 10:17:14 seahorse-daemon[23325]: Failed to send buffer
+Aug 20 10:17:14 NetworkManager[1138]: <warn> error requesting auth for org.freedesktop.NetworkManager.network-control: (6) Remote Exception invoking org.freedesktop.PolicyKit1.Authority.CheckAuthorization() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.DBus.Error.NameHasNoOwner: Remote Exception invoking org.freedesktop.DBus.GetConnectionUnixUser() on / at name org.freedesktop.DBus: org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.121': no such name
+Aug 20 10:17:14 NetworkManager[1138]: <warn> User connections unavailable: (6) Remote Exception invoking org.freedesktop.PolicyKit1.Authority.CheckAuthorization() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.DBus.Error.NameHasNoOwner: Remote Exception invoking org.freedesktop.DBus.GetConnectionUnixUser() on / at name org.freedesktop.DBus: org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.121': no such name
+Aug 20 10:17:14 NetworkManager[1138]: <warn> error requesting auth for org.freedesktop.NetworkManager.enable-disable-network: (6) Remote Exception invoking org.freedesktop.PolicyKit1.Authority.CheckAuthorization() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.DBus.Error.NameHasNoOwner: Remote Exception invoking org.freedesktop.DBus.GetConnectionUnixUser() on / at name org.freedesktop.DBus: org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.121': no such name
+Aug 20 10:17:14 NetworkManager[1138]: <warn> error requesting auth for org.freedesktop.NetworkManager.sleep-wake: (6) Remote Exception invoking org.freedesktop.PolicyKit1.Authority.CheckAuthorization() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.DBus.Error.NameHasNoOwner: Remote Exception invoking org.freedesktop.DBus.GetConnectionUnixUser() on / at name org.freedesktop.DBus: org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.121': no such name
+Aug 20 10:17:14 NetworkManager[1138]: <warn> error requesting auth for org.freedesktop.NetworkManager.enable-disable-wifi: (6) Remote Exception invoking org.freedesktop.PolicyKit1.Authority.CheckAuthorization() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.DBus.Error.NameHasNoOwner: Remote Exception invoking org.freedesktop.DBus.GetConnectionUnixUser() on / at name org.freedesktop.DBus: org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.121': no such name
+Aug 20 10:17:14 NetworkManager[1138]: <warn> error requesting auth for org.freedesktop.NetworkManager.enable-disable-wwan: (6) Remote Exception invoking org.freedesktop.PolicyKit1.Authority.CheckAuthorization() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.DBus.Error.NameHasNoOwner: Remote Exception invoking org.freedesktop.DBus.GetConnectionUnixUser() on / at name org.freedesktop.DBus: org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.121': no such name
+Aug 20 10:17:14 NetworkManager[1138]: <warn> error requesting auth for org.freedesktop.NetworkManager.use-user-connections: (6) Remote Exception invoking org.freedesktop.PolicyKit1.Authority.CheckAuthorization() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.DBus.Error.NameHasNoOwner: Remote Exception invoking org.freedesktop.DBus.GetConnectionUnixUser() on / at name org.freedesktop.DBus: org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.121': no such name
+Aug 20 10:17:14 NetworkManager[1138]: <warn> error requesting auth for org.freedesktop.NetworkManager.network-control: (6) Remote Exception invoking org.freedesktop.PolicyKit1.Authority.CheckAuthorization() on /org/
